@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://XinghaoJ.github.io/sitemap.xml
+Sitemap: https://xinghaoj.github.io/sitemap.xml
