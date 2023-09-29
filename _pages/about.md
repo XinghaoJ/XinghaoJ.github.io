@@ -11,7 +11,7 @@ profile:
   address: >
     <p>EOAS Thrust</p>
     <p>HKUST(GZ)</p>
-    <p>GuangZhou, Shandong Province</p>
+    <p>GuangZhou, Guangdong Province</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
